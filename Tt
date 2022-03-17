@@ -20,7 +20,7 @@
 
   <head>
 
-    <title>Nguyễn Minh Duy</title>
+    <title>Bồ Vương Quốc Thoại</title>
 
     <meta
 
@@ -50,7 +50,7 @@
 
     <meta
 
-      content="Phát triển bởi Nguyễn Minh Duy"
+      content="Phát triển bởi Bồ Vương Quốc Thoại"
 
       property="og:description"
 
@@ -74,13 +74,13 @@
 
       /*----------------------------------*/
 
-      /* Name: Nguyễn Minh Duy           */
+      /* Name: Bồ Vương Quốc Thoại           */
 
-      /* Admin: Nguyễn Minh Duy          */
+      /* Admin: Bồ Vương Quốc Thoại          */
 
-      /* Zalo: 0843860474                */
+      /* Zalo: 0352489828                */
 
-      /* Gmail: nguyenduy.developer@gmail.com*/
+      /* Gmail: qthoai210907@gmail.com   */
 
       /* Website: sub89.site               */
 
@@ -114,7 +114,7 @@
 
           <div class="profile-card__name">
 
-            Nguyễn Minh Duy
+            Bồ Vương Quốc Thoại
 
             <i
 
@@ -130,9 +130,9 @@
 
           <div class="profile-card__txt">
 
-            ✭ Dịch vụ mạng xã hội, thiết kế website <b>Nguyễn Minh Duy</b><b> tăng follow, tương tác, bảo mật tài khoản... </b>
+            ✭ Dịch vụ mạng xã hội, thiết kế website <b>Bồ Vương Quốc Thoại</b><b> tăng follow, tương tác, bảo mật tài khoản... </b>
 
-            <i> Thiết kế website theo yều cầu: web dịch vụ facebook, web cltx, web viết báo, web gạch thẻ và một số web khác </i> ✭
+            <i> Mình Chỉ Muốn Nói Mình Yêu Bạn Trân Rất Nhiều </i> ✭
 
           </div>
 
@@ -144,7 +144,7 @@
 
             </span>
 
-            <span class="profile-card-loc__txt">Thành phố Hồ Chí Minh </span>
+            <span class="profile-card-loc__txt">Bình Dương </span>
 
           </div>
 
@@ -154,7 +154,7 @@
 
               <div class="profile-card-inf__title" id="count-followers">
 
-                256.437
+                103.999
 
               </div>
 
@@ -198,7 +198,7 @@
 
               class="profile-card-social__item Fanfage"
 
-              href="https://www.facebook.com/100053818600599"
+              href="https://www.facebook.com/BVQThoaii.601"
 
               target="_blank"
 
@@ -218,7 +218,7 @@
 
               class="profile-card-social__item instagram"
 
-              href="https://www.instagram.com/mduy_support"
+              href="https://www.instagram.com/h4des_imp0ssibl3"
 
               target="_blank"
 
@@ -238,7 +238,7 @@
 
               class="profile-card-social__item tik tok"
 
-              href="https://www.tiktok.com/@nguyen_duy0011"
+              href="https://www.tiktok.com/@bvqthoai.601"
 
               target="_blank"
 
